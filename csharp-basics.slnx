@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="car/Car.csproj" />
+  <Project Path="sum-two-numbers/SumTwoNumbers.csproj" />
+</Solution>
